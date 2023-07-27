@@ -1,1 +1,1 @@
-# Diplomado-En-Power-BI
+# Diplomado-Power-BI
